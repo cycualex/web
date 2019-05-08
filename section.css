@@ -1,0 +1,48 @@
+.c{
+
+	border: 3px solid #73AD21;
+	padding-top: 45px;
+	padding-bottom:45px;
+	padding-left: 45px;
+	margin-right: 200PX;
+	margin-left: 200PX;
+	margin-top: 100px;
+	column-count: 2;
+	background-color: white;
+	border-style:dashed;
+}
+img.e{
+	float: left;
+
+
+}
+.d{
+	font-family: "微軟正黑體";
+}
+.p{
+	clear:left;
+	line-height:40px ;
+}
+.aa{
+	line-height:40px ;
+}
+.cc{
+
+	border: 3px solid #73AD21;
+	padding-top: 45px;
+	padding-bottom:45px;
+	padding-left: 45px;
+	margin-right: 200PX;
+	margin-left: 200PX;
+	margin-top: 100px;
+	background-color: white;
+	border-style:dashed;
+}
+.bb{
+	padding-right:  200px;
+}
+.dd{
+	padding-right:  200px;
+}
+
+
